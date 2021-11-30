@@ -1,4 +1,3 @@
-<<<<<<< .merge_file_a15588
 
 <img src="./img/logoPag.svg" width="30%" alt="Logo of the project" align="right">
 
@@ -59,7 +58,4 @@ Hecho con ❤ por
 - Edwin Mendez
 
 
-=======
-# Eladoscuro
-Tienda e-commerce basada en la venta online de souvenirs mexicanas con diseños originales, enfocada a un nicho de mercado: extranjeros con gusto por la cultura mexicana.
->>>>>>> .merge_file_a10840
+
